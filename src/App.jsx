@@ -8,8 +8,10 @@ function App() {
 
   return (
     <>
+    <div className="app-container">
       <h1>Hello CICD S211 Section</h1>
       <h1>Welcome</h1>
+    </div>
     </>
   )
 }

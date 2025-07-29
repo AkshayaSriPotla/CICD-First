@@ -1,3 +1,10 @@
 h1 {
-    color : green;
+    color : red;
+}
+.app-container {
+  background-color: yellow;
+  min-height: 100vh;
+  width: 100%;
+  margin: 0;
+  padding: 0;
 }
